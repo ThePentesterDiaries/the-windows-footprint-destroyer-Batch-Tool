@@ -5,6 +5,13 @@ netsh advfirewall set allprofiles state off
 pause
 
 
+#####INFORMACION_DESAROLLO#####
+####PROGRAMA_DESAROLLADO_POR_#####
+###AUTOR_LUIS_FAVELA_###
+###AÑO_2018###
+###VERSION_BETA_###
+###ENFOQUE:_HACKING_PENTESTING###
+
 #########################_DESACTIVAR_UAC_WINDOWS_(DEPENDIENDO_WINDOWS_VERSION)#################################
 echo "por favor seleccione una opcion de acuerdo a sus posibilidades de post-explotacion"
 echo "OPCION 1:      DESHABILITAR EL UAC DE WINDOWS"
